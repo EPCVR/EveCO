@@ -1,0 +1,10 @@
+E:\SteamLibrary\steamapps\common\Gorilla Tag\BepInEx\plugins\EveCO.deps.json
+E:\SteamLibrary\steamapps\common\Gorilla Tag\BepInEx\plugins\EveCO.dll
+E:\SteamLibrary\steamapps\common\Gorilla Tag\BepInEx\plugins\EveCO.pdb
+E:\Menu\EveC\EveCO\EveCO\obj\Debug\EveCO.csproj.AssemblyReference.cache
+E:\Menu\EveC\EveCO\EveCO\obj\Debug\EveCO.GeneratedMSBuildEditorConfig.editorconfig
+E:\Menu\EveC\EveCO\EveCO\obj\Debug\EveCO.AssemblyInfoInputs.cache
+E:\Menu\EveC\EveCO\EveCO\obj\Debug\EveCO.AssemblyInfo.cs
+E:\Menu\EveC\EveCO\EveCO\obj\Debug\EveCO.csproj.CoreCompileInputs.cache
+E:\Menu\EveC\EveCO\EveCO\obj\Debug\EveCO.dll
+E:\Menu\EveC\EveCO\EveCO\obj\Debug\EveCO.pdb
